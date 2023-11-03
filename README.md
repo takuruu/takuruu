@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @takuruu
 - 👀 I’m interested in ... Linux
-- 🌱 I’m currently learning ... archlinux
-- 💞️ I’m looking to collaborate on ... archlinux
+- 🌱 I’m currently learning ... nixos
+- 💞️ I’m looking to collaborate on ... vim and nixos
 - 📫 How to reach me ... here
 
 <!---
