@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @takuruu
 - 👀 I’m interested in ... Linux
-- 🌱 I’m currently learning ... nixos
-- 💞️ I’m looking to collaborate on ... vim and nixos
+- 🌱 I’m currently learning ... AI agents and rust
+- 💞️ I’m looking to collaborate on ... don't know yet
 - 📫 How to reach me ... here
 
 <!---
